@@ -20,5 +20,5 @@ This project features a countdown timer that tracks time until the end of the ye
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/AkshatSh-a/New-Years-countdown.git
+   git clone https://github.com/yourusername/countdown-timer.git
    cd countdown-timer
